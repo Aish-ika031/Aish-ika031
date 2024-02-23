@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Aish-ika031/Aish-ika031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Code](https://github.com/Aish-ika031/Aish-ika031/assets/100345686/4e213e86-3032-4bf2-9d48-bd479caddb46)
 
-Here are some ideas to get you started:
+#### 👋 Hey there !! I'm Aishika Vishwakarma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 About Me
+
+- 🔭 I’m a passionate Frontend Developer with hands on experience in React & Javascript.
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I’m having great knack towards Data Structures & Algorithms.
+- 👯 I’m looking forward to work on some exciting projects.
+
+🛠  Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,py,java,linux,git,c,mysql,opencv,vscode" />
+  </a>
+</p>
