@@ -19,3 +19,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,js,py,java,linux,git,c,mysql,opencv,vscode" />
   </a>
 </p>
+
+<div>
+<span> <h2>Coding Profiles </h2>
+<p align = "center">
+<a  href="https://leetcode.com/aishika_vishwakarma/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+<div>
+<p align = "center">
+  <span> <h2>Let's get connected</h2>
+    <p align = "center">
+<a  href="https://www.linkedin.com/in/aishika-43420b1ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </p>
+  </span>
