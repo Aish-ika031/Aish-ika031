@@ -20,6 +20,9 @@
   </a>
 </p>
 
+<h3> &nbsp;GitHub Stats:&nbsp; ⚙️</h3>
+<img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aish-ika031&layout=compact&langs_count=8&theme=algolia"/><img height="182em" align="center" src=https://github-readme-stats.vercel.app/api?username=Aish-ika031&show_icons=true&layout=compact&langs_count=8&theme=algolia alt=Aish-ika031 />
+
 <div>
 <span> <h2>Coding Profiles </h2>
 <p align = "center">
